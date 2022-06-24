@@ -1,0 +1,23 @@
+HTML
+
+Hyper Text markup Language 
+
+
+we markup things using Tags
+
+the Tags looks like 
+
+<html>
+<p> ashfkjdsahf </p>
+</html>
+
+<body>
+<head>
+<h1>
+<h2>
+<h3>
+
+
+If you want to comment something (hide it)
+
+put it in between <!--  <p> sdfgasgasg </p> -->
